@@ -1,22 +1,16 @@
+# Hello-Microverse
+This project based on the linter configuration. setup project built with html and css
+
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+![image](https://user-images.githubusercontent.com/31547587/148134761-02a9ce94-c889-41e0-9166-9f8b893ac8fe.png)
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -45,14 +39,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@githubhandle](https://github.com/HectorTorresE)
+- Twitter: [@twitterhandle](https://twitter.com/HectorT00406915)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
